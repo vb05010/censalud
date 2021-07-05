@@ -1,0 +1,12 @@
+name: CENSALUD
+description: 'Centro de Investigación y Desarrollo en Salud'
+author: 'JoomShaper & József Tamás Herczeg'
+homepage: ''
+code: censalud
+authorUrl: 'http://shapebootstrap.net/'
+form:
+    fields:
+        site_name:
+            label: 'Site name'
+            comment: 'The website name as it should appear on the front-end'
+            default: Corlate
